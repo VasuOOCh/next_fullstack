@@ -1,0 +1,13 @@
+.container{
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 20px;
+    min-width: 100px;
+    text-align: center;
+}
+
+.activeLink{
+    background-color: var(--text);
+    color: var(--bg);
+
+}

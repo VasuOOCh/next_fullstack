@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.text{
+    font-size: 1rem;
+}
